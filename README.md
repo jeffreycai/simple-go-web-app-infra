@@ -31,6 +31,6 @@ terraform apply
 ```
 
 ## TODO
-Configure AWS S3 to store Terraform states
-Configure Dynamodb for locking
+- Configure AWS S3 to store Terraform states
+- Configure Dynamodb for locking
 
